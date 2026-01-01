@@ -1,0 +1,9 @@
+
+{
+  "name": "Tua TV de Moz",
+  "description": "Uma plataforma de televisão moderna e dinâmica para Moçambique, oferecendo notícias, entretenimento e transmissões ao vivo com um CMS integrado.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
